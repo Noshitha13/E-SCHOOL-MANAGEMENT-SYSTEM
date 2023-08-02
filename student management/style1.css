@@ -1,0 +1,33 @@
+.fde{
+    padding-top: 200px;
+}
+.lg{
+
+    display: inline-block;
+    color:darkcyan;
+    width: 100px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.lgf{
+    background-color: black;
+    width:400px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.tit{
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 400px;
+    font-size: 20px;
+}
+.bdy{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}

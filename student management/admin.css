@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: rgb(115, 195, 227);
+    line-height: 70px;
+    padding-left: 30px;
+    color: white;
+}
+a,a:hover{
+    text-decoration: none!important;
+    color: white!important;
+
+}
+.logout{
+    float:right;
+    padding-right: 30px;
+}
+ul{
+    background-color: cadetblue;
+    width:16%;
+    height: 100%;
+    position: fixed;
+    text-align: center;
+    padding-top: 5%;
+}
+ul li{
+    list-style: none;
+    font-size: 15px;
+    padding-bottom: 30px;
+}
+ul li a{
+    color: white;
+    font-weight: bold;
+}
+ul li a:hover{
+    text-decoration: none;
+}
+.content{
+    margin-left: 25%;
+    margin-top: 5%;
+}

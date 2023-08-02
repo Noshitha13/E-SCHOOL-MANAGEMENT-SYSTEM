@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    position: fixed;
+    height:70px;
+    width:100%;
+    z-index: 1;
+    background-color: skyblue;
+}
+.logo{
+  font-size: 25px;
+  position: relative;
+  left:5%;
+  color: white;
+  font-weight: bold;
+  line-height: 70px;
+}
+ul{
+    position: relative;
+    float: right;
+    margin-right: 20px;
+
+}
+ul li{
+    display: inline;
+    line-height: 70px;
+    margin: 0 5px;
+
+}
+ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+}
+.mai{
+    height: 300px;
+    width:100%;
+}
+.section1{
+    padding-top: 70px;
+}
+.img_txt{
+    position: absolute;
+    top:25%;
+    left:30%;
+    color:white;
+    background-color: midnightblue;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 35px;
+}
+.wel{
+    width: 100%;
+    height: 250px;
+}
+.container{
+    padding-top: 70px;
+}
+.teacher{
+    width:90%;
+    height: 200px;
+}
+.labelt{
+    display:inline-block;
+    width:100px;
+    text-align: right;
+    padding-right: 10px;
+}
+.inp{
+    width: 30%;
+    height: 40px;
+    border-radius: 25px;
+    border:1px solid black;
+}
+.admin{
+    padding-top: 10px;
+}
+.inptx{
+    width: 30%;
+    height: 120px;
+    border-radius: 25px;
+    border:1px solid black;
+}
+#submit{
+    position: relative;
+    left:5%;
+    width:15%;
+}
+footer{
+    background-color: black;
+    height: 70px;
+    width:100%;
+    
+}
+.footxt{
+    text-align: center;
+    color: white;
+    position: relative;
+    top:20%;
+}
+.adi{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.fde{
+    padding-bottom: 300px;
+}
+.noshi{
+    color: aquamarine;
+}
